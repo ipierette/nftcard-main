@@ -1,10 +1,3 @@
-## 🧰 Tecnologias utilizadas
-
-| Front-end |
-|-----------|
-| HTML5 | CSS3 |
-
----
 
 ## 📂 Estrutura de Pastas
 
